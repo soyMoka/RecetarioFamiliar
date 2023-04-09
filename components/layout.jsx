@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/public/images/logo.png" />
+        <link rel="icon" href="https://raw.githubusercontent.com/soyMoka/RecetarioFamiliar/main/public/images/logo.png" />
         <meta
           name="description"
           content="Recetario c:"
@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/public/images/logo.png"
+              src="https://raw.githubusercontent.com/soyMoka/RecetarioFamiliar/main/public/images/logo.png"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -43,7 +43,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/public/images/logo.png"
+                src="https://raw.githubusercontent.com/soyMoka/RecetarioFamiliar/main/public/images/logo.png"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}

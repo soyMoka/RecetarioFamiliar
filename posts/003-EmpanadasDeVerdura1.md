@@ -1,11 +1,12 @@
 ---
-date: 2023-04-10
+date: '2023-04-10'
 title: Empanadas de verduras 1
 author: Mica
 tags: [vegetariana]
 ---
 
-![imagen de las empanadas](../public/images/empanadasVerdura1.webp)
+![imagen de las empanadas](
+    /images/empanadasVerdura1.webp)
 # Ingredientes
 - 2u Berenjenas
 - 3u tomates

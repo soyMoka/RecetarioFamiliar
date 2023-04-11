@@ -5,7 +5,8 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build"
+    "deploy":"gh-pages -d build",
+    "export": "next export"
   },
   "dependencies": {
     "date-fns": "^2.29.3",

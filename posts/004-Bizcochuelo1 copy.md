@@ -2,7 +2,7 @@
 date: '2023-04-21'
 title: Bizcochuelo de aceite
 author: Micaela A 
-tags: [Dulce, bizcochuelo]
+tags: [Dulce, Bizcochuelo]
 ---
 
 ![imagen de las empanadas](

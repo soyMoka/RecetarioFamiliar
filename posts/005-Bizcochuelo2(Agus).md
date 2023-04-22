@@ -1,8 +1,8 @@
 ---
 date: '2023-04-21'
-title: Bizcochuelo de aceite
+title: Bizcochuelo de la madre de Agus
 author: Mamá de Agus
-tags: [Dulce, bizcochuelo]
+tags: [Dulce, Bizcochuelo]
 ---
 
 

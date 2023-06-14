@@ -1,9 +1,8 @@
-
 ---
+date: '2023-06-13'
 title: 'Tarta de coco y dulce de leche'
-date: '2023-05-30'
-tags: ['delicatesen', 'Postre']
 author: Isabel Rescalvo (internet) 
+tags: ['delicatesen', 'Postre']
 
 ---
 

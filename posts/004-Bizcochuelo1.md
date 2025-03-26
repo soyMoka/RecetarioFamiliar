@@ -5,8 +5,7 @@ author: Micaela A
 tags: [Dulce, Bizcochuelo]
 ---
 
-![imagen de las empanadas](
-    /images/empanadasVerdura1.webp)
+![imagen de las empanadas](https://raw.githubusercontent.com/soyMoka/RecetarioFamiliar/main/public/images/empanadasVerdura1.webp)
 # Ingredientes
 - 2 tazas Harina leudante
 - 1 taza azúcar (yo usé la mitad porque soy azucarfóbico(?)

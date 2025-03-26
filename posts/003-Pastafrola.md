@@ -5,8 +5,6 @@ author: Infobae
 tags: ["Postre"]
 ---
 
-![imagen de las empanadas](
-    /images/empanadasVerdura1.webp)
 # Ingredientes
 - 300g de harina 000.
 - 150g de mantequilla fría, cortada en cubos.
